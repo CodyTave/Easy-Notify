@@ -6,7 +6,7 @@
 
 ## Demo
 
-[Demo](https://easy-notify-demo.vercel.app/){:target="\_blank"}
+[Demo](https://easy-notify-demo.vercel.app/)
 
 ## Screenshots
 
