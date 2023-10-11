@@ -1,14 +1,14 @@
 {
   "name": "easy-notify-ts",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A lightweight and simple package for oversimplified notification on web apps with typescript ",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "files": [
-      "dist"
-   ],
-    "scripts": {
+    "dist"
+  ],
+  "scripts": {
     "build": "tsup",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
