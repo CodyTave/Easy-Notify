@@ -1,6 +1,6 @@
 {
   "name": "easy-notify-ts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight and simple package for oversimplified notification on web apps with typescript ",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
