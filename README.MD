@@ -51,7 +51,7 @@ An enum defining the types of notifications:
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/CodyTave/Easy-Notify/master/chrome-capture-2023-9-11.gif)
+![](https://s6.gifyu.com/images/S6nlN.gif)
 
 ## Notification Types
 
