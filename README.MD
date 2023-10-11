@@ -4,6 +4,10 @@
 
 **easy-notify-ts** is a simple and lightweight JavaScript library for displaying toast notifications in your web applications. It allows you to easily show alert, error, or success messages in a customizable and stylish manner. This library is written in TypeScript and provides an intuitive way to notify your users about important events or messages.
 
+## Demo
+
+[Demo](https://easy-notify-demo.vercel.app/){:target="\_blank"}
+
 ## Screenshots
 
 ![](https://s6.gifyu.com/images/S6nlN.gif)
@@ -67,6 +71,4 @@ An enum defining the types of notifications:
 
 [ISC](https://choosealicense.com/licenses/isc/)
 
-## Demo
-
-[Demo](https://easy-notify-demo.vercel.app/)
+Thank you for using Easy-Notify-TS! We hope it simplifies the way you handle notifications in your TypeScript projects. If you have any questions or need assistance, feel free to reach out to us.
